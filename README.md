@@ -9,7 +9,7 @@ Welcome to the "Project English" project!
 This is an open source project to improve Chinese programmer's English language skill. In this project, every paticipator would have the chance to write an article for it as an unique source code file. Once your article is qualified by some professional test, it will be show in the final project for ever. This article is your graduation thesis in this project, it is a symbol that you have made a progress in your way of English learning, and it also makes you a contributor of this project. 
 
 
-项目介绍/Introduction
+项目介绍|Introduction
 ------------
 
 程序员们：  
@@ -34,7 +34,7 @@ Grammar correction is an easy to be ignored but very important factor in English
 No matter how many English TV series have you watched and how many English books have you read, you still need to practice expressing to improve your English. It's the same reason that we need lots of progeamming besides reading books to be a good programmer. For spoken English, besides grammars, the most important part is to practice expressing in real situations. It's like athletes need to enhance theirs physical response to reach a good performance. Memories and espressing work in a different way, that's why it is still hard to speak with a real person after lots of vocabularies and grammars remembering. A native English coach would help, but like we said, we usually do not have such condition. Expressing can be partly reached by texting with others in instant talking on line. Though you might not respone instantly like in a face-to-face situation (because in real situation, the other is waiting for you answer so you have to response instantly), but in a group chat, the discussion will be pushed to forward by others. So, for to catch the peace of the conversation, you have to increase your speed of response, and so expressing. This might be a better way to practice expressing for us.
 
 
-怎样操作/Operations
+怎样操作|Operations
 -----
 
 所以我们怎么进行这个项目？我们会建立一个QQ群，只允许程序员加入，为了不影响大家时间，我们会每天抽20分钟时间进行开放式聊天，聊天内容是除技术之外的任何符合道德准则和法律范围内允许的内容，使用全英文交流，我们会在交流中实时进行纠错。  
@@ -50,15 +50,21 @@ It seems subtle, but you will feel a totally different experiences youselef by s
 So, join us now! We need tens of thousands of different kind of programmers to join. What? How much money should you pay? Come on, Buddy! this is an open source project, Ok?
 
 
-贡献/Contributions：
+贡献|Contributions：
 ----------------
 
 如果任何人觉得自己英语进步了，每个人机会用英语写一篇任何符合道德精神和法律准则内容的文章，提交经审核符合一定的水平要求之后发表到这个项目，这成为该项目的源代码，这也使得你为该项目作出了贡献！这篇文章将是您从PE毕业的毕业论文，它会和其他毕业学生的文章一起形成这个项目独一无二的源代码。  
 For every participator, once you feel that you have made a progress, you could write an article in English and submit to this repository. We will qualitify your article and once it passed it will be showed in the final project for ever. It is your graduation thesis from Project English, it is also the source code of this project, and that makes you a contributor of the Project English.
 
 
-参加方式/How to join：
+参加方式|How to join：
 ------------
 
 您对该项目的最终贡献需要发表在这个Github项目，所以您必须拥有一个Github账号，关注本项目，您就拥有了一个回答问题的答案，然后用您的ID作为答案加入QQ群:193780251 开始进行学习。  
 For joining our QQ group, you need to star our project in Github which gives you a token -- your Github usename, then you can use this token as a answer of "what is your Github name?" to join our QQ group: 193780251. That's all!
+
+关注我们|Follow Us
+-------
+
+QQ群主要用于英语对话交流，一些有用的日常学习方法，技巧，资源等信息将会被发布到微博上，所以您也可以关注我们的微博，这将是一个全英语内容的微博：http://weibo.com/projectenglish  
+Besides the QQ group, we will post some tips and resources of English learning on our official Weibo social media, it will be a full English content account, so please follow us if you would like, thank you!
