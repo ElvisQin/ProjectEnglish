@@ -6,7 +6,7 @@ Project English
 Welcome to the "Project English" project! 
 
 这是一个致力于提高中国程序员英语语言能力的开源项目。在这个项目中，每名参与者有机会提交一份用英语书写的高质量的文章作为该项目的其中一个独一无二的源文件，其写作质量经专业鉴定达到一定水平后即正式永久加入本项目，它是您在Project English的毕业论文，它象征着您的英语取得了进步，并使您成为本项目的一名贡献者。  
-This is an open source project to improve Chinese programmer's English language skill. In this project, every paticipator would have the chance to write an article for it as an unique source code file. Once your article is qualified by some professional test, it will be show in the final project for ever. This article is your graduation thesis in this project, it is a symbol that you have made a progress in your way of English learning, and it also makes you a contributor of this project. 
+This is an open source project to improve Chinese programmer's English language skill. In this project, every paticipator would have the chance to write an article for it as an unique source code file. Once your article is qualified by some professional test, it will be shown in the final project for ever. This article is your graduation thesis in this project, it is a symbol that you have made a progress in your way of English learning, and it also makes you a contributor of this project. 
 
 
 项目介绍|Introduction
