@@ -31,37 +31,37 @@ For Chinese English learner, there are three things are very challenging: pronou
 Grammar correction is an easy to be ignored but very important factor in English learning. Usually, we barely find the errors in our sentences by ourselves, so we might have been keeping repeating some errors until one day we saw a right form of it by chance. This way is obiviously low-efficiency. Considering when you are talking with a native English speker, if he or she points out your grammar errors instantly, you will be likely to avoid it next time, so this way is more efficient than the former. Unfortunately, we do not have such condition. In China, some Wechat or QQ groups provide chance to talk with other learners in English, but usually they don't point out your errors. In project English, grammar correction is one of the central parts of it.
 
 不管你看过多少美剧，读多少英文书，都取代不了主动表达练习的需求，这个跟我们光看书不写代码就不可能成为真正的程序员是一样的道理。在语言学习中，对于口语的需求除了语法之外还需要大脑快速组织句子并即时表达的能力训练，这就像运动员必须增强他的生理反应能力以在比赛中发挥更好的水平，记忆和表达是完全两种不同的工作方式，这就是为什么我们背了那么多单词和语法仍旧很难开口的原因，表达具有某种生理上的反应特征，所以和运动员一样，我们必须加强训练这种反应特征，这方面最好的训练当然也是有外教陪练，然而我们也没有这样的条件。快速组句和即时表达能力是可以通过聊天部分达到的，虽然没有真人对话那么有效，但是在训练即时构句方面两者的训练效果是一样的，虽然在线聊天提供了适当延迟思考时间，例如你不需要像面对面对话一样立即回答（因为对方在等待你的回答）从而并不像是真正的即时表达，但是多人讨论的情景往往可以推动即时表达的节奏，因为即使你没有即时回答，讨论仍然在继续，你为了跟上讨论必须促进自己的即时表达，这可能是我们在缺乏外语环境下比较好的方式了。  
-No matter how many English TV series have you watched and how many English books have you read, you still need to practice expressing to improve your English. It's the same reason that we need lots of progeamming besides reading books to be a good programmer. For spoken English, besides grammars, the most important part is to practice expressing in real situations. It's like athletes need to enhance theirs physical response to reach a good performance. Memories and espressing work in a different way, that's why it is still hard to speak with a real person after lots of vocabularies and grammars remembering. A native English coach would help, but like we said, we usually do not have such condition. Expressing can be partly reached by texting with others in instant talking on line. Though you might not respone instantly like in a face-to-face situation (because in real situation, the other is waiting for you answer so you have to response instantly), but in a group chat, the discussion will be pushed to forward by others. So, for to catch the peace of the conversation, you have to increase your speed of response, and so expressing. This might be a better way to practice expressing for us.
+No matter how many English TV series have you watched and how many English books have you read, you still need to practice expressing to improve your English. It's the same reason that we need lots of progeamming besides reading books to be a good programmer. For spoken English, besides grammars, the most important part is to practice expressing in real situations. It's like athletes need to enhance theirs physical response to reach a good performance. Remembering and espressing work in a different way, that's why it is still hard to speak with a real person after lots of vocabularies and grammars remembering. A native English coach would help, but like we said, we usually do not have such condition. Expressing can be partly reached by texting with others in instant talking on line. Though you might not respone instantly like in a face-to-face situation (because in real situation, the other is waiting for you answer so you have to response instantly), but in a group chat, the discussion will be pushed to forward by others. So, for to catch the peace of the conversation, you have to increase your speed of response, and so expressing. This might be a better way to practice expressing for us.
 
 
 怎样操作|Operations
 -----
 
 所以我们怎么进行这个项目？我们会建立一个QQ群，只允许程序员加入，为了不影响大家时间，我们会每天抽20分钟时间进行开放式聊天，聊天内容是除技术之外的任何符合道德准则和法律范围内允许的内容，使用全英文交流，我们会在交流中实时进行纠错。  
-So how are we going to run this project? We will create a QQ group in which only programmers can join in. We both know that we have lots of works, so there only would be a regular 20 minutes in a day to discuss in English, and we provide grammar correcting in the discussion.
+So how are we going to run this project? We will create a QQ group in which only programmers can join in. We both know that we have lots of works to do, so there only would be a regular 20 minutes in a day to discuss in English, and we provide grammar correcting within the discussion.
 
 听起来很简单，对吧，不是有很多这样的微信群吗？说几个区别，很多微信群都是每次确定一个主题进行讨论，每次选个代表来做主持之类的。这样的思路会导致参与度特别低，一是可能话题不对口，另一个最重要的问题在于：它将本来成员自己想学习的愿望变成了“参与话题”这样一个被动学习过程，其个人目的转换为了我需要去参与一件事情，这个讨论像是一个任务，所以我们可能根本就不想去参与。而在完全没有限制的方式下，你的目标仍然是自己要学习英语，你会更主动，不像是在被动完成一件事情；除此之外，如前面所述，实时纠错是我们的核心精神之一。  
-Sounds simple, right?  Aren't there many Wechat and QQ groups in China are doing the same things? There are several differences. First, many of them held this discussion by talking about a topic chosen by a host in each time. In such a way, many factors lead to a low participation. One of these is that many of them would not be interested in such a specific topic, and most importantly, another factor is that it turns active learning to passive, it's like you are supposed to participate a topic than you want learn English yourself. For keep your motivation, it needs a free environment in which you can join freely and actively. Besides, again, real-time grammar recorrecting is one of our central spirit.
+Sounds simple, right?  Aren't there many Wechat and QQ groups in China are doing the same things? There are several differences from them. First, many of them held this discussion by talking about a topic chosen by a host in each time. In such a way, many factors lead to a low participation. One of these is that many of them would not be interested in such a specific topic, and most importantly, another factor is that it turns active learning to passive, it's like you are supposed to participate a topic than you want to learn English yourself. For keeping your motivation, it needs a free environment in which you can join freely and actively. Besides, again, real-time grammar recorrecting is one of our central spirit.
 
 你可能觉得这个区别特别特别特别微妙，但是你会体验到这种微妙区别下面完全不同的学习效率。我无法告诉你这种区别，只有你自己能够亲自体验。  
-It seems subtle, but you will feel a totally different experiences youselef by staying at it. I cann't tell you the differences, you have to do it yourself.
+It seems subtle, but you will feel a totally different experiences youselef by staying at it. I cann't tell you the differences exactly, you have to do it yourself.
 
 所以，加入我们的项目吧，我们需要各种各样的程序员人才，我也不想解释太多了，什么？要交多少钱？大哥，这是开源项目好不好！  
-So, join us now! We need tens of thousands of different kind of programmers to join. What? How much money should you pay? Come on, Buddy! this is an open source project, Ok?
+So, join us now! We need tens of thousands of different kind of programmers to join in. What? How much money should you pay? Come on, Buddy! this is an open source project, Ok?
 
 
 贡献|Contributions：
 ----------------
 
 如果任何人觉得自己英语进步了，每个人机会用英语写一篇任何符合道德精神和法律准则内容的文章，提交经审核符合一定的水平要求之后发表到这个项目，这成为该项目的源代码，这也使得你为该项目作出了贡献！这篇文章将是您从PE毕业的毕业论文，它会和其他毕业学生的文章一起形成这个项目独一无二的源代码。  
-For every participator, once you feel that you have made a progress, you could write an article in English and submit to this repository. We will qualitify your article and once it passed it will be showed in the final project for ever. It is your graduation thesis from Project English, it is also the source code of this project, and that makes you a contributor of the Project English.
+For every participator, once you feel that you have made a progress, you could write an article in English and submit to this repository. We will qualitify your article and once it passed it will be shown in the final project for ever. It is your graduation thesis from Project English, it is also the source code of this project, and that makes you a contributor of the Project English.
 
 
 参加方式|How to join：
 ------------
 
 您对该项目的最终贡献需要发表在这个Github项目，所以您必须拥有一个Github账号，关注本项目，您就拥有了一个回答问题的答案，然后用您的ID作为答案加入QQ群:193780251 开始进行学习。  
-For joining our QQ group, you need to star our project in Github which gives you a token -- your Github usename, then you can use this token as a answer of "what is your Github name?" to join our QQ group: 193780251. That's all!
+For joining our QQ group, you need to star our project in Github which gives you a token -- your Github usename, then you can use this token as an answer of "what is your Github name?" to join our QQ group: 193780251. That's all!
 
 关注我们|Follow Us
 -------
